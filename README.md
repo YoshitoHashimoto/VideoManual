@@ -4,11 +4,10 @@ HTMLページでvideoと説明文を表示します。
 
 
 ■ファイル構成について
-./main.html
--デモ表示用のページ
 
-./mp4/*.mp4
-	videoデータ
+./main.html --デモ表示用のページ
+
+./mp4/*.mp4 --videoデータ
 
 
 ■HTMLについて
